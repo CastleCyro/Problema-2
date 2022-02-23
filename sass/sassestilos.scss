@@ -1,0 +1,33 @@
+$color-principal: pink;
+$color-secundaria: yellow;
+
+
+h1 {
+    font-family: 'Bebas Neue', cursive; ;
+}
+
+h4,h5,h6 {
+    color: $color-principal;
+}
+
+div {
+    h5{
+        color: $color-secundaria;
+    } 
+    h4{
+        color:aquamarine;
+    }
+}
+
+
+/* elemeto clase */
+/*con estas clases se ahorra la página cosas para procesar y tiempo de carga*/
+.alineacion{
+    text-align: center;
+
+}
+
+
+/*div es para anidación, pero no se muy bien que*/
+
+/* para comentarios */
